@@ -1,0 +1,48 @@
+img{
+    float:left;
+    
+}
+ul li{
+    display:inline;
+    font-size: 22px;
+    padding-right: 100px;
+    color: #fff;
+}
+a{
+text-decoration: none;
+color:inherit;
+
+}
+/* .button{
+    float: left;
+    background: rgb(56, 151, 224);
+    font-size: 48px;
+    color:white;
+    padding:3px;
+    border-radius: 3px solid black;
+    margin-right: 10px;
+} */
+
+/* .div-1{
+    float:right;
+    background-color: #0091ae;
+    height: 100px;
+    line-height: 100px;
+    margin: 30px;
+    text-align: center;
+    width: 100px; 
+}  */
+
+    .div-2{
+        font-family:'Franklin Gothic Medium';
+        padding-right: 100px;
+        text-align: left;
+        text-overflow: right;
+    }
+    .div-1{
+        font-family: Helvetica;
+        padding-right: 100px;
+        text-align: left;
+        line-height: 30px;
+        text-overflow: right;
+    }
